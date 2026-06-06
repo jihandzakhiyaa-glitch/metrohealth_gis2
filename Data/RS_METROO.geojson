@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Kode": 1872016,
+        "Nama RS": "RSUD Jend. Ahmad Yani",
+        "Jenis": "RSUD",
+        "Tipe": "B",
+        "Kecamatan": "Metro Pusat",
+        "Alamat": "Jalan Jend. A. Yani No.13, Imopuro, Kec. Metro Pusat, Kota Metro, Lampung 34124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3100972,
+          -5.1157028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kode": 1872031,
+        "Nama RS": "RS Islam Metro",
+        "Jenis": "RS",
+        "Tipe": "D",
+        "Kecamatan": "Metro Timur",
+        "Alamat": "Jalan Jend. AH. Nasution No.250, Yosodadi, Kec. Metro Timur, Kota Metro, Lampung 34111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3331917,
+          -5.1057889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kode": 1871020,
+        "Nama RS": "RS Mardi Waluyo",
+        "Jenis": "RS",
+        "Tipe": "C",
+        "Kecamatan": "Metro Pusat",
+        "Alamat": "Jalan Jendral Sudirman No.156, Metro, Kec. Metro Pusat, Kota Metro, Lampung 34125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2964028,
+          -5.1183111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kode": 1872042,
+        "Nama RS": "RS Muhammadiyah Metro",
+        "Jenis": "RS",
+        "Tipe": "C",
+        "Kecamatan": "Metro Barat",
+        "Alamat": "Jalan SoekarnoH atta No.42, Mulyojati, Kec. Metro Barat, Kota Metro, Lampung 34125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2897639,
+          -5.1350167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kode": 1872053,
+        "Nama RS": "RSIA AMC Metro",
+        "Jenis": "RSIA",
+        "Tipe": "C",
+        "Kecamatan": "Metro Pusat",
+        "Alamat": "Jalan Kunang No.15, Metro, Kec. Metro Pusat, Kota Metro, Lampung 34111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3099889,
+          -5.1185722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kode": 1872065,
+        "Nama RS": "RSIA Asih Metro",
+        "Jenis": "RSIA",
+        "Tipe": "C",
+        "Kecamatan": "Metro Timur",
+        "Alamat": "Jalan Ahmad Yani No.52, Yosorejo, Kec. Metro Timur, Kota Metro, Lampung 34124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3137222,
+          -5.1183667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kode": 1872064,
+        "Nama RS": "RSIA Permata Hati",
+        "Jenis": "RSIA",
+        "Tipe": "C",
+        "Kecamatan": "Metro Timur",
+        "Alamat": "Jalan Jend. AH. Nasution No.34, Yosorejo, Kec. Metro Timur, Kota Metro, Lampung 34124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.31365,
+          -5.1142389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kode": 1872066,
+        "Nama RS": "RS Azizah Metro",
+        "Jenis": "RS",
+        "Tipe": "C",
+        "Kecamatan": "Metro Pusat",
+        "Alamat": "Jalan KH. Hanafiah No.64, Imopuro, Kec. Metro Pusat, Kota Metro, Lampung 34124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.3096278,
+          -5.1096806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kode": 1872067,
+        "Nama RS": "RSUD Sumbersari Bantul",
+        "Jenis": "RS",
+        "Tipe": "D",
+        "Kecamatan": "Metro Selatan",
+        "Alamat": "Jalan Letjend Soeprapto No.4, Sumbersari, Kec. Metro Selatan, Kota Metro, Lampung 34124"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105.2950389,
+          -5.1620306
+        ]
+      }
+    }
+  ]
+}
